@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Softwaretester using this space to store/sync/save material for the courses I take. 
+Softwaretester using this space to store/sync material (in private repositories) for the courses I take. 
 So (for now) nothing here to share...
 
 <!--
