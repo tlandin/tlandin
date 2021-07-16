@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-Softwaretester using this space to store/sync material (in private repositories) for the courses I take. 
-So (for now) nothing here to share...
+Softwaretester using this space to store/sync material for the courses I take. 
 
 <!--
 **tlandin/tlandin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
