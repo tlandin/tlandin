@@ -1,6 +1,9 @@
 ### Hi there 👋
 
-Softwaretester using this space to store/sync material for the courses I take. 
+Softwaretester from Visby, Sweden.
+
+- 🌱 I’m currently learning Robot Framework together with basic Python (and basic C#, basic Java... basically stuck in beginner courses)
+
 
 <!--
 **tlandin/tlandin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
