@@ -1,8 +1,6 @@
 ### Hi there 👋
 
-Softwaretester from Visby, Sweden.
-
-- 🌱 I’m currently learning Robot Framework together with basic Python (and basic C#, basic Java... basically stuck in beginner courses)
+Software tester from Visby, Sweden.
 
 
 <!--
